@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me siga nas redes abaixo!
+### Pra conteúdo sobre programação siga-me nas redes abaixo!
  
 <div>
   <a href="https://instagram.com/samuel_aguiar_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
